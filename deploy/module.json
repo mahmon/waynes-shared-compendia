@@ -7,8 +7,8 @@
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.7.8",
    "url": "https://github.com/mahmon/waynes-shared-compendia",
-   "manifest": "https://raw.githubusercontent.com/mahmon/waynes-shared-compendia/master/deploy/module.json",
-   "download": "https://github.com/mahmon/waynes-shared-compendia/raw/master/deploy/waynes-shared-compendia-v1.0.0.zip",
+   "manifest": "https://raw.githubusercontent.com/mahmon/waynes-shared-compendia/main/deploy/module.json",
+   "download": "https://github.com/mahmon/waynes-shared-compendia/raw/main/deploy/waynes-shared-compendia-v1.0.0.zip",
    "packs": [
     {
       "name": "scenes",
