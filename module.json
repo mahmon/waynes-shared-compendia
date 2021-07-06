@@ -5,14 +5,14 @@
    "author": "Wayne",
    "version": "1.0.0",
    "minimumCoreVersion": "0.5.0",
-   "compatibleCoreVersion":"0.7.8",
+   "compatibleCoreVersion":"0.8.8",
    "url": "https://github.com/mahmon/waynes-shared-compendia",
-   "manifest": "https://raw.githubusercontent.com/mahmon/waynes-shared-compendia/master/deploy/module.json",
-   "download": "https://github.com/mahmon/waynes-shared-compendia/raw/master/deploy/waynes-shared-compendia-v1.0.0.zip",
+   "manifest": "https://raw.githubusercontent.com/mahmon/waynes-shared-compendia/main/module.json",
+   "download": "https://github.com/mahmon/waynes-shared-compendia/raw/main/deploy/waynes-shared-compendia-v1.0.0.zip",
    "packs": [
     {
       "name": "scenes",
-      "label": "Wayne's Shared Scenes",
+      "label": "Wayne's Compendia - Scenes",
       "path": "packs/scenes.db",
       "entity": "Scene",
       "module": "waynes-shared-compendia"
